@@ -1,0 +1,20 @@
+
+   Deploying 'Leagueofstakes'
+   --------------------------
+   > transaction hash:    0x6e1ba09e5e859a49076d734c3d8ada0d0bed423e1bade90b1bd25185d80c20f1
+   > Blocks: 1            Seconds: 8
+   > contract address:    0x0C19EBdCCE0b5A27812daB7Ea9D361b7Eee2D641
+   > block number:        7809847
+   > block timestamp:     1591714270
+   > account:             0xD0573f4fb4c0F021A2714Ed77f483b8CdE76771b
+   > balance:             10.57537542
+   > gas used:            889464
+   > gas price:           180 gwei
+   > value sent:          0 ETH
+   > total cost:          0.16010352 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.16010352 ETH
