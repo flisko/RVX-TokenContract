@@ -166,6 +166,8 @@ contract Leagueofstakes is Owned {
       
     
     function close() public onlyOwner { //onlyOwner is custom modifier
+        uint256 tokenBalance = rvx.balanceOf(this);
+         rvx.transfer(msg.sender, tokenBalance);
           selfdestruct(msg.sender);  // `owner` is the owners address
     }
 

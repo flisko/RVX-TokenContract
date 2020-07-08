@@ -2,8 +2,8 @@ var Leagueofstakes = artifacts.require("Leagueofstakes");
 
 
 module.exports = function(deployer) {
-  var losowner = ["0x07dee23b955e7dffff6ba88e8dc632e38c4b23a8"];
-  var rvxtoken = "0x97626da35b3290c9c86df26656ede4f56c60d52b";
+  var losowner = ["0x5a8c5062a877791b9fe5b8851a5a4834c6f43bbb"];
+  var rvxtoken = "0xcb72ef349870780fdc4786e8c86aab5b4fa36b73";
 
  deployer.deploy(Leagueofstakes,losowner,rvxtoken);
 

@@ -11,3 +11,26 @@
    > gas price:           180 gwei
    > value sent:          0 ETH
    > total cost:          0.17060832 ETH
+
+   mainnet:
+
+   2_deploy_contracts.js
+=====================
+
+   Deploying 'Leagueofstakes'
+   --------------------------
+   > transaction hash:    0x77bbbbd2553176b413d9b57c7744926a24c23dc092b1a2c4b6de8e543dd18541
+   > Blocks: 1            Seconds: 4
+   > contract address:    0xe40c38fdfE134B4857D9A004b1282Ab34be3aDBA
+   > block number:        9331944
+   > block timestamp:     1594030475
+   > account:             0xec4A0C8bf6b63E01a95E0e25048194180CdF8895
+   > balance:             9.470611786
+   > gas used:            992010
+   > gas price:           180 gwei
+   > value sent:          0 ETH
+   > total cost:          0.1785618 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:           0.1785618 ETH
